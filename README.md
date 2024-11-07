@@ -17,39 +17,39 @@
 
 ## Combining
 
-The idea is based on **combining** different elements of tech, so that it can be quickly repurposed for the desired type of work in different working directions. For example, combine manipulators to get a vertically and horizontally walking drone. Add wheels so that the drone can not only walk, but also drive on the surface. Add propellers so that additionally can fly over obstacles. This type of drone can be used in delivery, construction, patrolling, in the warehouse, production, to carry goods from the store or car, even as a vehicle.
+The idea is based on **combining** different elements of tech, so that it can be quickly repurposed for the desired type of work in different working directions. For example, combine **manipulators** to get a vertically and horizontally walking drone. Add **wheels** so that the drone can not only walk, but also drive on the surface. Add **propellers** so that additionally can fly over obstacles. This type of drone can be used in **delivery**, **construction**, **patrolling**, in the **warehouse**, **production**, to **carry goods** from the store or car, even as a **vehicle**.
 
 Similarly with computer equipment. A laptop can be disassembled into its component parts.
 
-> Screen ・ tablet
+> **Screen** ・ tablet
 >
-> Touchpad ・ smartphone / mouse
+> **Touchpad** ・ smartphone / mouse
 >
-> Keyboard ・ a computing base that can work autonomously as a server
+> **Keyboard** ・ a computing base that can work autonomously as a server
 >
-> Power supply ・ wireless charging for smartphone and headphones
+> **Power supply** ・ wireless charging for smartphone and headphones
 
 The same applies to other tech that can be used in different ways.
 
-> Music speaker (tablet) ・ swivel mechanism / smartphone charging, stacking speakers on top of each other to increase sound volume, spreading across a room for spatial sound, home control
+> **Music speaker** (pill) ・ swivel mechanism / smartphone charging, stacking speakers on top of each other to increase sound volume, spreading across a room for spatial sound, home control
 >
-> Dust collector and cleaning mechanism ・ cleaning the room and work surface
+> **Dust collector** and **cleaning mechanism** ・ cleaning the room and work surface
 >
-> Opening containers ・ remotely open and close containers, cool or heat contents, mount on drone for delivery, securely install servers
+> **Opening containers** ・ remotely open and close containers, cool or heat contents, mount on drone for delivery, securely install servers
 >
-> Lock ・ remote opening and closing
+> **Lock** ・ remote opening and closing
 >
-> Lamp ・ remote switching on and off, brightness and color adjustment
+> **Lamp** ・ remote switching on and off, brightness and color adjustment
 >
-> Power strip ・ customize turning devices on and off
+> **Power strip** ・ customize turning devices on and off
 >
-> Battery ・ provide power, combine with power strip to create an uninterruptible power supply
+> **Battery** ・ provide power, combine with power strip to create an uninterruptible power supply
 >
-> External camera ・ monitor the territory
+> **External camera** ・ monitor the territory
 >
-> Manipulator ・ carrying objects, remote control
+> **Manipulator** ・ carrying objects, remote control
 
-All this can be installed on the drone. Separately can be installed various sensors for night vision, humidity, smoke, temperature, weight, medical sensors and other.
+All this can be installed on the **drone**. Separately can be installed various **sensors** for night vision, humidity, smoke, temperature, weight, medical sensors and other.
 
 ## Farm
 
