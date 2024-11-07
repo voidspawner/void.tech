@@ -17,7 +17,7 @@
 
 ## Combining
 
-The idea is based on the idea of **combining** different elements of tech, so that it can be quickly repurposed for the desired type of work in different working directions. For example, combine manipulators to get a vertically and horizontally walking drone. Add wheels so that the drone can not only walk, but also drive on the surface. Add propellers so that additionally can fly over obstacles. This type of drone can be used in delivery, construction, patrolling, in the warehouse, production, to carry goods from the store or car, even as a vehicle.
+The idea is based on **combining** different elements of tech, so that it can be quickly repurposed for the desired type of work in different working directions. For example, combine manipulators to get a vertically and horizontally walking drone. Add wheels so that the drone can not only walk, but also drive on the surface. Add propellers so that additionally can fly over obstacles. This type of drone can be used in delivery, construction, patrolling, in the warehouse, production, to carry goods from the store or car, even as a vehicle.
 
 Similarly with computer equipment. A laptop can be disassembled into its component parts.
 
