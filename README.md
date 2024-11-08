@@ -49,11 +49,13 @@ The same applies to other tech that can be used in different ways.
 >
 > **Manipulator** ・ carrying objects, remote control
 
-All this can be installed on the **drone**. Separately can be installed various **sensors** for night vision, humidity, smoke, temperature, weight, medical sensors and other.
+All this can be mounted on the **drone**. Separately can be mounted various **sensors** for night vision, humidity, smoke, temperature, weight, medical sensors and other.
 
 The tech is developed taking into account both use on Earth and in airless space, outer space.
 
 ## Farm
+
+Another area of **V O I D tech** is the autonomous cultivation of plants and living beings. It can be deployed at home, creating small **year-round farms**. Up to giant **vertical spiral farms** that can go **1 000 km** below the surface, and can be used on different planets, with different gravity, pressure and radiation. Providing food for **1 quintillion people** on the planet (1 000 000 000 000 000 000).
 
 ## Spawner
 
