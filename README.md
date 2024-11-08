@@ -59,6 +59,8 @@ Another area of **V O I D tech** is the autonomous cultivation of plants and liv
 
 Filling the entire space from the **Earth** to the **Moon**, the population could reach **5 sextillion people** (5 000 000 000 000 000 000 000). **500 000 000 000 times the current population of the Earth**.
 
+Filling the entire space from the **Earth** to the **Mars** and from **Earth** to **Venus**, the population could reach **15 octillion people** (15 000 000 000 000 000 000 000 000 000). **1 500 000 000 000 000 000 times the current population of the Earth**.
+
 ## Spawner
 
 Spherical autonomous devices controlled by **V O I D ai**, traveling from one star system to another to populate planets with living beings, humans. Each repopulated planet creates new spawners. Increasing their numbers exponentially.
