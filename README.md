@@ -57,6 +57,8 @@ The tech is developed taking into account both use on Earth and in airless space
 
 Another area of **V O I D tech** is the autonomous cultivation of plants and living beings. It can be deployed at home, creating small **year-round farms**. Up to giant **vertical spiral farms** that can go **1 000 km** below the surface, and can be used on different planets, with different gravity, pressure and radiation. Providing food for **10 quadrillion people** on the planet (10 000 000 000 000 000). **1 000 000 times the current population of the Earth**.
 
+Filling the entire space from the **Earth** to the **Moon**, the population could reach **5 sextillion people** (5 000 000 000 000 000 000 000).
+
 ## Spawner
 
 Spherical autonomous devices controlled by **V O I D ai**, traveling from one star system to another to populate planets with living beings, humans. Each repopulated planet creates new spawners. Increasing their numbers exponentially.
