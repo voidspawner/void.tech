@@ -52,7 +52,7 @@ The same applies to other tech that can be used in different ways.
 
 All this can be mounted on the **drone**. Separately can be mounted various **sensors** for night vision, humidity, smoke, temperature, weight, medical sensors and other.
 
-The tech is developed taking into account both use on Earth and in airless space, outer space.
+The tech is developed taking into account both use on **Earth** and in airless space, **outer space**.
 
 ## Farm
 
