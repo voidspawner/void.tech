@@ -72,7 +72,7 @@ Autonomous **shape-shifting** devices controlled by **V O I D ai**, traveling fr
 > 
 > **Dome** · Standing on the planet's surface
 
-Spawners signal each other that a planet has been populated to prevent repopulation. And also exchange data about the location of other spawners and a **map of the Universe**.
+Spawners signal each other that a planet has been populated to prevent repopulation. And also exchange data about the location of other spawners, a **map of the Universe** and accumulated **knowledge** from other star systems.
 
 Autonomous **underground factories** persist on the planet. Goods are crafted **individually** to meet people's needs and delivered autonomously.
 
