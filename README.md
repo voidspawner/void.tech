@@ -64,7 +64,11 @@ Filling the entire space from the **Earth** to **Mars** and from the **Earth** t
 
 ## Spawner
 
-Spherical autonomous devices controlled by **V O I D ai**, traveling from one star system to another to populate planets with living beings, humans. Each repopulated planet creates new spawners. Increasing their numbers exponentially.
+Autonomous **shape-shifting** devices controlled by **V O I D ai**, traveling from one star system to another to **populate planets** with humans and other living beings. Each repopulated planet creates new spawners. Increasing their numbers **exponentially**.
+
+> **Elongated** cylinder shape tapered at the ends · Lifting off the planet's surface
+> **Sphere** · Landing on the planet's surface
+> **Dome** · Standing on the planet's surface
 
 Autonomous factories persist on the planet. Goods are crafted **individually** to meet people's needs and delivered autonomously.
 
