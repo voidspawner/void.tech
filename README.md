@@ -72,7 +72,7 @@ Autonomous **shape-shifting** devices controlled by **V O I D ai**, traveling fr
 > 
 > **Dome** · Standing on the planet's surface
 
-Autonomous factories persist on the planet. Goods are crafted **individually** to meet people's needs and delivered autonomously.
+Autonomous **underground factories** persist on the planet. Goods are crafted **individually** to meet people's needs and delivered autonomously.
 
 ## V O I D license
 **⌜ V O I D license ⌟** is a license to distribute digital content and goods. Expressed in a single sentence:
