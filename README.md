@@ -9,6 +9,7 @@
 > [**About**](#about)・
 [**Combining**](#combining)・
 [**Farm**](#farm)・
+[**Closed Cycle**](#closed-cycle)
 [**Spawner**](#spawner)・
 [**V O I D license**](#v-o-i-d-license)・
 [**V O I D lang**](#v-o-i-d-lang)・
@@ -61,6 +62,10 @@ Another area of **V O I D tech** is the autonomous cultivation of plants and liv
 Filling the entire space from the **Earth** to **Moon** (which is half the radius of the Sun), the population could reach **5 sextillion people** (5 000 000 000 000 000 000 000). **500 000 000 000 times the current population of the Earth**.
 
 Filling the entire space from the **Earth** to **Mars** and from the **Earth** to **Venus**, the population could reach **15 octillion people** (15 000 000 000 000 000 000 000 000 000). **1 500 000 000 000 000 000 times the current population of the Earth**.
+
+## Closed Cycle
+
+In a few years it is necessary to pass the way of mastering the full cycle of production. From mining of minerals and energy, processing and production of chemicals, to production of microelectronics and telecommunication networks. What took the whole world **60 years** should be accomplish in a few years.
 
 ## Spawner
 
