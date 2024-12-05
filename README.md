@@ -82,7 +82,7 @@ In a few years it is necessary to pass the way of mastering the full cycle of pr
 1975	AMD Am9080
 1976	Apple 1
 	Floppy 5.25"
-1977	Apple //
+1977	Apple ||
 1978	VisiCalc
 	Intel 8086
 1980	Sinclair ZX80
