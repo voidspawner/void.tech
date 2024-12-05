@@ -91,7 +91,7 @@ In a few years it is necessary to pass the way of mastering the full cycle of pr
 1982	ZX Spectrum
 1983	Visi On
 	Apple //e
-	Ninntendo Entertainment System
+	Nintendo Entertainment System
 1984	Apple Works
 	Apple //c
 	Apple Macintosh 128k
