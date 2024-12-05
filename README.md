@@ -107,7 +107,7 @@ In a few years it is necessary to pass the way of mastering the full cycle of pr
 1995	3dfx Voodoo Graphics 3D chip
 	S3 Trio64
 	ATI Rage
-1996	Voodoo Graphics
+1996	3dfx Voodoo Graphics
 	S3 ViRGE
 	Tomb Raider
 	Quake
