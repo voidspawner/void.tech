@@ -9,7 +9,7 @@
 > [**About**](#about)・
 [**Combining**](#combining)・
 [**Farm**](#farm)・
-[**Closed Cycle**](#closed-cycle)
+[**Closed Cycle**](#closed-cycle)・
 [**Spawner**](#spawner)・
 [**V O I D license**](#v-o-i-d-license)・
 [**V O I D lang**](#v-o-i-d-lang)・
