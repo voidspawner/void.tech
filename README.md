@@ -74,51 +74,51 @@ In a few years it is necessary to pass the way of mastering the full cycle of pr
 1971	Intel 4004
 1972	EEPROM
 1973	Xerox Alto
-		Ethernet
-		IBM SCAMP 5100
+	Ethernet
+	IBM SCAMP 5100
 1974	Intel 4040
-		Intel 8080
-		Packet Network
+	Intel 8080
+	Packet Network
 1975	AMD Am9080
 1976	Apple 1
-		Floppy 5,25"
+	Floppy 5.25"
 1977	Apple //
 1978	VisiCalc
-		Intel 8086
+	Intel 8086
 1980	Sinclair ZX80
 1981	IBM PC
-		IPv4
+	IPv4
 1982	ZX Spectrum
 1983	Visi On
-		Apple //e
-		Ninntendo Entertainment System
+	Apple //e
+	Ninntendo Entertainment System
 1984	Apple Works
-		Apple //c
-		Apple Macintosh 128k
+	Apple //c
+	Apple Macintosh 128k
 1985	Super Mario Bros.
 1989	Flash NAND
-		Apple Macintosh Portable
+	Apple Macintosh Portable
 1990	MS Office
-		Web Browser
+	Web Browser
 1993	NVIDIA
-		Doom
+	Doom
 1994	Cellular PDA IBM Simon
-		3dfx
+	3dfx
 1995	3dfx Voodoo Graphics 3D chip
-		S3 Trio64
-		ATI Rage
+	S3 Trio64
+	ATI Rage
 1996	Voodoo Graphics
-		S3 ViRGE
-		Tomb Raider
-		Quake
-		Duke Nukem 3D
+	S3 ViRGE
+	Tomb Raider
+	Quake
+	Duke Nukem 3D
 1997	Tomb Raider 2
 1998	Unreal
 2004	Facebook
 2007	iPhone
 2009	Minecraft
 2022	Stable Diffusion
-		ChatGPT
+	ChatGPT
 ```
 
 ## Spawner
