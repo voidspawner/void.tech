@@ -118,6 +118,7 @@ In a few years it is necessary to pass the way of mastering the full cycle of pr
 2004	Facebook
 2007	iPhone
 2009	Minecraft
+	WhatsApp
 2022	Stable Diffusion
 	ChatGPT
 ```
