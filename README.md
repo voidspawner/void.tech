@@ -96,6 +96,7 @@ In a few years it is necessary to pass the way of mastering the full cycle of pr
 	Apple //c
 	Apple Macintosh 128k
 1985	Super Mario Bros.
+1987	TSMC
 1989	Flash NAND
 	Apple Macintosh Portable
 1990	MS Office
