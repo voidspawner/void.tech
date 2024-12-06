@@ -116,7 +116,7 @@ In a few years it is necessary to pass the way of mastering the full cycle of pr
 1997	Tomb Raider 2
 1998	Unreal
 2004	Facebook
-2007	iPhone
+2007	Apple iPhone
 2009	Minecraft
 	WhatsApp
 2022	Stable Diffusion
