@@ -106,6 +106,7 @@ In a few years it is necessary to pass the way of mastering the full cycle of pr
 	Doom
 1994	Cellular PDA IBM Simon
 	3dfx
+	PlayStation
 1995	3dfx Voodoo Graphics 3D chip
 	S3 Trio64
 	ATI Rage
@@ -118,6 +119,7 @@ In a few years it is necessary to pass the way of mastering the full cycle of pr
 1998	Unreal
 	Google
 2001	Wikipedia
+2003	Steam
 2004	Facebook
 2007	Apple iPhone
 2009	Minecraft
