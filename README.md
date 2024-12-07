@@ -88,6 +88,7 @@ In a few years it is necessary to pass the way of mastering the full cycle of pr
 	Intel 8086
 1980	Sinclair ZX80
 1981	IBM PC
+	MS-DOS
 	IPv4
 1982	ZX Spectrum
 1983	Visi On
@@ -110,6 +111,7 @@ In a few years it is necessary to pass the way of mastering the full cycle of pr
 1995	3dfx Voodoo Graphics 3D chip
 	S3 Trio64
 	ATI Rage
+	Windows 95
 1996	3dfx Voodoo Graphics
 	S3 ViRGE
 	Tomb Raider
