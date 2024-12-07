@@ -71,6 +71,7 @@ In a few years it is necessary to pass the way of mastering the full cycle of pr
 1964	Mouse Device
 1968	Intel
 1969	AMD
+	Unix
 1971	Intel 4004
 1972	EEPROM
 	Dynabook
@@ -103,6 +104,7 @@ In a few years it is necessary to pass the way of mastering the full cycle of pr
 	Apple Macintosh Portable
 1990	MS Office
 	Web Browser
+1991	Linux
 1993	NVIDIA
 	Doom
 1994	Cellular PDA IBM Simon
