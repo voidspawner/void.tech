@@ -75,6 +75,7 @@ In a few years it is necessary to pass the way of mastering the full cycle of pr
 1971	Intel 4004
 1972	EEPROM
 	Dynabook
+	Floppy 8"
 1973	Xerox Alto
 	Ethernet
 	IBM SCAMP 5100
@@ -91,6 +92,7 @@ In a few years it is necessary to pass the way of mastering the full cycle of pr
 1981	IBM PC
 	MS-DOS
 	IPv4
+	Floppy 3.5"
 1982	ZX Spectrum
 1983	Visi On
 	Apple //e
