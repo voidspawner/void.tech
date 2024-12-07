@@ -73,6 +73,7 @@ In a few years it is necessary to pass the way of mastering the full cycle of pr
 1969	AMD
 1971	Intel 4004
 1972	EEPROM
+	Dynabook
 1973	Xerox Alto
 	Ethernet
 	IBM SCAMP 5100
@@ -115,6 +116,8 @@ In a few years it is necessary to pass the way of mastering the full cycle of pr
 	Duke Nukem 3D
 1997	Tomb Raider 2
 1998	Unreal
+	Google
+2001	Wikipedia
 2004	Facebook
 2007	Apple iPhone
 2009	Minecraft
