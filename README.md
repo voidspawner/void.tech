@@ -61,7 +61,7 @@ The tech is developed taking into account both use on **Earth** and in airless s
 
 Another area of **V O I D tech** is the autonomous cultivation of plants and living beings. It can be deployed at home, creating small **year-round farms**. Autonomous watering, lighting, humidification, temperature control, blowing. Also feeding and cleaning of animals.
 
-<img src="https://raw.githubusercontent.com/voidspawner/void.ideology/refs/heads/main/asset/image/farm.webp" width="100%">
+<img src="https://raw.githubusercontent.com/voidspawner/void.ideology/refs/heads/main/asset/image/farm2.webp" width="100%">
 
 Up to giant **vertical spiral farms** that can go **1 000 km** below the surface, and can be used on different planets, with different gravity, pressure and radiation. Providing food for **10 quadrillion people** on the planet (10 000 000 000 000 000). **1 000 000 times the current population of the Earth**.
 
