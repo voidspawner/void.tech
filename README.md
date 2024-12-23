@@ -138,7 +138,7 @@ In a few years it is necessary to pass the way of mastering the full cycle of pr
 
 Autonomous **shape-shifting** devices controlled by **V O I D ai**, traveling from one star system to another to **populate planets** with humans and other living beings. Each repopulated planet creates new spawners. Increasing their numbers **exponentially**.
 
-> **Elongated** cylinder shape tapered at the ends · Lifting off the planet's surface
+> **Elipse** · Lifting off the planet's surface
 > 
 > **Sphere** · Landing on the planet's surface
 > 
