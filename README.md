@@ -63,6 +63,8 @@ Filling the entire space from the **Earth** to **Moon** (which is half the radiu
 
 Filling the entire space from the **Earth** to **Mars** and from the **Earth** to **Venus**, the population could reach **15 octillion people** (15 000 000 000 000 000 000 000 000 000). **1 500 000 000 000 000 000 times the current population of the Earth**.
 
+<img src="https://raw.githubusercontent.com/voidspawner/void.ideology/refs/heads/main/asset/image/deep.webp" width="100%">
+
 ## Closed Cycle
 
 In a few years it is necessary to pass the way of mastering the full cycle of production. From mining of minerals and energy, processing and production of chemicals, to production of microelectronics and telecommunication networks. What took the whole world **60 years** should be accomplish in a few years.
@@ -145,6 +147,7 @@ Autonomous **shape-shifting** devices controlled by **V O I D ai**, traveling fr
 > **Dome** · Standing on the planet's surface
 
 <img src="https://raw.githubusercontent.com/voidspawner/void.ideology/refs/heads/main/asset/image/spawner-shape.webp" width="100%">
+
 Spawners signal each other that a planet has been populated to prevent repopulation. And also exchange data about the location of other spawners, a **map of the Universe** and accumulated **knowledge** from other star systems.
 
 Autonomous **underground factories** persist on the planet. Goods are crafted **individually** to meet people's needs and delivered autonomously.
