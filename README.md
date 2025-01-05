@@ -9,6 +9,7 @@
 > [**About**](#about)・
 [**Combining**](#combining)・
 [**Farm**](#farm)・
+[**Chip**](#chip)・
 [**Closed Cycle**](#closed-cycle)・
 [**Spawner**](#spawner)・
 [**V O I D license**](#v-o-i-d-license)・
@@ -70,6 +71,14 @@ Filling the entire space from the **Earth** to **Moon** (which is half the radiu
 Filling the entire space from the **Earth** to **Mars** and from the **Earth** to **Venus**, the population could reach **15 octillion people** (15 000 000 000 000 000 000 000 000 000). **1 500 000 000 000 000 000 times the current population of the Earth**.
 
 <img src="https://raw.githubusercontent.com/voidspawner/void.ideology/refs/heads/main/asset/image/deepfarm.webp" width="100%">
+
+## Chip
+
+For artificial intelligence, it is necessary to produce chips in which the main function will be to support **[neural networks](https://en.wikipedia.org/wiki/Neural_network_(machine_learning))**. One chip will combine **[CPU](https://en.wikipedia.org/wiki/Central_processing_unit)** · **[GPU](https://en.wikipedia.org/wiki/Graphics_processing_unit)** · **[RAM](https://en.wikipedia.org/wiki/Random-access_memory)** · **[SSD](https://en.wikipedia.org/wiki/Solid-state_drive)** · **[Sound](https://en.wikipedia.org/wiki/Sound_chip)** · **[100 Gbit Ethernet](https://en.wikipedia.org/wiki/100_Gigabit_Ethernet)** · **[WiFi](https://en.wikipedia.org/wiki/Wi-Fi)** · **[Bluetooth](https://en.wikipedia.org/wiki/Bluetooth)** · **[Cellular](https://en.wikipedia.org/wiki/Cellular_network)**.
+
+**∞1 000 000 000** is needed to set up production (∞1 void = $1).
+
+[![How are Microchips Made?](https://i3.ytimg.com/vi/dX9CGRZwD-w/maxresdefault.jpg)](https://www.youtube.com/watch?v=dX9CGRZwD-w)
 
 ## Closed Cycle
 
