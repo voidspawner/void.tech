@@ -73,7 +73,7 @@ Filling the entire space from the **Earth** to **Mars** and from the **Earth** t
 
 ## Closed Cycle
 
-In a few years it is necessary to pass the way of mastering the full cycle of production. From mining of minerals and energy, processing and production of chemicals, to production of microelectronics and telecommunication networks. What took the whole world **60 years** should be accomplish in a few years.
+In a few years it is necessary to pass the way of mastering the full cycle of production. From mining of minerals and energy, processing and production of chemicals, to production of microelectronics and telecommunication networks. What took the whole world **80 years** should be accomplish in a few years.
 
 ```
 1950    Bertie the Brain
