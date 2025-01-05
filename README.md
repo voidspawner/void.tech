@@ -76,6 +76,8 @@ Filling the entire space from the **Earth** to **Mars** and from the **Earth** t
 In a few years it is necessary to pass the way of mastering the full cycle of production. From mining of minerals and energy, processing and production of chemicals, to production of microelectronics and telecommunication networks. What took the whole world **60 years** should be accomplish in a few years.
 
 ```
+1950    Bertie the Brain
+1962    Spacewar!
 1964	Mouse Device
 1968	Intel
 1969	AMD
@@ -84,17 +86,26 @@ In a few years it is necessary to pass the way of mastering the full cycle of pr
 1972	EEPROM
 	Dynabook
 	Floppy 8"
+	Intel 8008
+	Magnavox Odyssey
 1973	Xerox Alto
 	Ethernet
-	IBM SCAMP 5100
+	IBM SCAMP
 1974	Intel 4040
 	Intel 8080
+	Altair 8800
 	Packet Network
 1975	AMD Am9080
+	MOS Technology 6502
+	IBM 5100
+	Altair BASIC
 1976	Apple 1
 	Floppy 5.25"
 1977	Apple ||
+	TRS-80
+	Commodore PET
 1978	VisiCalc
+	Acorn Computers
 	Intel 8086
 1980	Sinclair ZX80
 1981	IBM PC
@@ -109,6 +120,7 @@ In a few years it is necessary to pass the way of mastering the full cycle of pr
 	Apple //c
 	Apple Macintosh 128k
 1985	Super Mario Bros.
+	ARM 1
 1987	TSMC
 1989	Flash NAND
 	Apple Macintosh Portable
