@@ -7,10 +7,21 @@
 <img src="https://github.com/voidspawner/void.ideology/blob/main/asset/image/logo.jpg" width="100%">
 
 > [**About**](#about)・
-[**Combining**](#combining)・
-[**Farm**](#farm)・
+[**Computer**](#computer)・
+[**Phone**](#phone)・
+[**Robot**](#robot)・
+[**Door**](#door)・
+[**Power**](#power)・
+[**Medicine**](#medicine)・
+[**Deliver**](#deliver)・
+[**Transport**](#transport)・
+[**Cafe**](#cafe)・
+[**Shop**](#shop)・
+[**Building**](#building)・
+[**Producing**](#producing)・
 [**Chip**](#chip)・
-[**Closed Cycle**](#closed-cycle)・
+[**Energy**](#energy)・
+[**Farm**](#farm)・
 [**Spawner**](#spawner)・
 [**V O I D license**](#v-o-i-d-license)・
 [**V O I D lang**](#v-o-i-d-lang)・
@@ -18,69 +29,37 @@
 [**V O I D ideology**](#v-o-i-d-ideology)・
 [**V O I D task**](#v-o-i-d-task)
 
-## Combining
+## Home
 
-The idea is based on **combining** different elements of tech, so that it can be quickly repurposed for the desired type of work in different working directions. For example, combine **manipulators** to get a vertically and horizontally walking drone. Add **wheels** so that the drone can not only walk, but also drive on the surface. Add **propellers** so that additionally can fly over obstacles. This type of drone can be used in **delivery**, **construction**, **patrolling**, in the **warehouse**, **production**, to **carry goods** from the store or car, even as a **vehicle**.
+### Computer
 
-Similarly with computer equipment. A laptop can be disassembled into its component parts.
+### Phone
 
-> **Screen** ・ tablet
->
-> **Touchpad** ・ smartphone / mouse
->
-> **Keyboard** ・ a computing base that can work autonomously as a server
->
-> **Power supply** ・ wireless charging for smartphone and headphones
+### Robot
 
-The same applies to other tech that can be used in different ways.
+### Door
 
-> **Music speaker** (pill) ・ swivel mechanism / smartphone charging, stacking speakers on top of each other to increase sound volume, spreading across a room for spatial sound, home control
->
-> **Dust collector** and **cleaning mechanism** ・ cleaning the room and work surface
->
-> **Opening containers** ・ remotely open and close containers, cool or heat contents, mount on drone for delivery, securely install servers
->
-> **Lock** ・ remote opening and closing
->
-> **Lamp** ・ remote switching on and off, brightness and color adjustment
->
-> **Power strip** ・ customize turning devices on and off
->
-> **Battery** ・ provide power, combine with power strip to create an uninterruptible power supply
->
-> **External camera** ・ monitor the territory
->
-> **Manipulator** ・ carrying objects, remote control
+### Power
 
-All this can be mounted on the **drone**. Separately can be mounted various **sensors** for night vision, humidity, smoke, temperature, weight, medical sensors and other.
+### Medicine
 
-The tech is developed taking into account both use on **Earth** and in airless space, **outer space**.
+## City
 
-<img src="https://raw.githubusercontent.com/voidspawner/void.ideology/refs/heads/main/asset/image/tech.webp" width="100%">
+### Deliver
 
-## Farm
+### Transport
 
-Another area of **V O I D tech** is the autonomous cultivation of plants and living beings. It can be deployed at home, creating small **year-round farms**. Autonomous watering, lighting, humidification, temperature control, blowing. Also feeding and cleaning of animals.
+### Cafe
 
-<img src="https://raw.githubusercontent.com/voidspawner/void.ideology/refs/heads/main/asset/image/farm2.webp" width="100%">
+### Shop
 
-Up to giant **vertical spiral farms** that can go **1 000 km** below the surface, and can be used on different planets, with different gravity, pressure and radiation. Providing food for **10 quadrillion people** on the planet (10 000 000 000 000 000). **1 000 000 times the current population of the Earth**.
+## Space
 
-Filling the entire space from the **Earth** to **Moon** (which is half the radius of the Sun), the population could reach **5 sextillion people** (5 000 000 000 000 000 000 000). **500 000 000 000 times the current population of the Earth**.
+### Building
 
-Filling the entire space from the **Earth** to **Mars** and from the **Earth** to **Venus**, the population could reach **15 octillion people** (15 000 000 000 000 000 000 000 000 000). **1 500 000 000 000 000 000 times the current population of the Earth**.
+### Energy
 
-<img src="https://raw.githubusercontent.com/voidspawner/void.ideology/refs/heads/main/asset/image/deepfarm.webp" width="100%">
-
-## Chip
-
-For **[artificial intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)**, it is necessary to produce chips in which the main function will be to support **[neural networks](https://en.wikipedia.org/wiki/Neural_network_(machine_learning))**. One chip will combine **[CPU](https://en.wikipedia.org/wiki/Central_processing_unit)** · **[GPU](https://en.wikipedia.org/wiki/Graphics_processing_unit)** · **[RAM](https://en.wikipedia.org/wiki/Random-access_memory)** · **[SSD](https://en.wikipedia.org/wiki/Solid-state_drive)** · **[Sound](https://en.wikipedia.org/wiki/Sound_chip)** · **[100 Gbit Ethernet](https://en.wikipedia.org/wiki/100_Gigabit_Ethernet)** · **[WiFi](https://en.wikipedia.org/wiki/Wi-Fi)** · **[Bluetooth](https://en.wikipedia.org/wiki/Bluetooth)** · **[Cellular](https://en.wikipedia.org/wiki/Cellular_network)**.
-
-**∞1 000 000 000** is needed to set up production (∞1 void = $1).
-
-[![How are Microchips Made?](https://i3.ytimg.com/vi/dX9CGRZwD-w/maxresdefault.jpg)](https://www.youtube.com/watch?v=dX9CGRZwD-w)
-
-## Closed Cycle
+### Producing
 
 In a few years it is necessary to pass the way of mastering the full cycle of production. From mining of minerals and energy, processing and production of chemicals, to production of microelectronics and telecommunication networks. What took the whole world **80 years** should be accomplish in a few years.
 
@@ -163,7 +142,29 @@ In a few years it is necessary to pass the way of mastering the full cycle of pr
 	ChatGPT
 ```
 
-## Spawner
+### Chip
+
+For **[artificial intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)**, it is necessary to produce chips in which the main function will be to support **[neural networks](https://en.wikipedia.org/wiki/Neural_network_(machine_learning))**. One chip will combine **[CPU](https://en.wikipedia.org/wiki/Central_processing_unit)** · **[GPU](https://en.wikipedia.org/wiki/Graphics_processing_unit)** · **[RAM](https://en.wikipedia.org/wiki/Random-access_memory)** · **[SSD](https://en.wikipedia.org/wiki/Solid-state_drive)** · **[Sound](https://en.wikipedia.org/wiki/Sound_chip)** · **[100 Gbit Ethernet](https://en.wikipedia.org/wiki/100_Gigabit_Ethernet)** · **[WiFi](https://en.wikipedia.org/wiki/Wi-Fi)** · **[Bluetooth](https://en.wikipedia.org/wiki/Bluetooth)** · **[Cellular](https://en.wikipedia.org/wiki/Cellular_network)**.
+
+**∞1 000 000 000** is needed to set up production (∞1 void = $1).
+
+[![How are Microchips Made?](https://i3.ytimg.com/vi/dX9CGRZwD-w/maxresdefault.jpg)](https://www.youtube.com/watch?v=dX9CGRZwD-w)
+
+### Farm
+
+Another area of **V O I D tech** is the autonomous cultivation of plants and living beings. It can be deployed at home, creating small **year-round farms**. Autonomous watering, lighting, humidification, temperature control, blowing. Also feeding and cleaning of animals.
+
+<img src="https://raw.githubusercontent.com/voidspawner/void.ideology/refs/heads/main/asset/image/farm2.webp" width="100%">
+
+Up to giant **vertical spiral farms** that can go **1 000 km** below the surface, and can be used on different planets, with different gravity, pressure and radiation. Providing food for **10 quadrillion people** on the planet (10 000 000 000 000 000). **1 000 000 times the current population of the Earth**.
+
+Filling the entire space from the **Earth** to **Moon** (which is half the radius of the Sun), the population could reach **5 sextillion people** (5 000 000 000 000 000 000 000). **500 000 000 000 times the current population of the Earth**.
+
+Filling the entire space from the **Earth** to **Mars** and from the **Earth** to **Venus**, the population could reach **15 octillion people** (15 000 000 000 000 000 000 000 000 000). **1 500 000 000 000 000 000 times the current population of the Earth**.
+
+<img src="https://raw.githubusercontent.com/voidspawner/void.ideology/refs/heads/main/asset/image/deepfarm.webp" width="100%">
+
+### Spawner
 
 Autonomous **shape-shifting** devices controlled by **V O I D ai**, traveling from one star system to another to **populate planets** with humans and other living beings. Each repopulated planet creates new spawners. Increasing their numbers **exponentially**.
 
