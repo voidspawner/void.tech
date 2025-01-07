@@ -156,9 +156,9 @@ Another area of **V O I D tech** is the autonomous cultivation of plants and liv
 
 <img src="https://raw.githubusercontent.com/voidspawner/void.ideology/refs/heads/main/asset/image/farm2.webp" width="100%">
 
-Up to giant **vertical spiral farms** that can go **1 000 km** below the surface, and can be used on different planets, with different gravity, pressure and radiation. Providing food for **10 quadrillion people** on the planet (10 000 000 000 000 000). **1 000 000 times the current population of the Earth**.
+Up to giant **vertical spiral farms** that can go **1 000 km** below the surface, and can be used on different planets, with different gravity, pressure and radiation. For example, the diameter of **[Europa](https://en.wikipedia.org/wiki/Europa_(moon))**, a satellite of **[Jupiter](https://en.wikipedia.org/wiki/Jupiter)**, is only **3 121 km**. Providing food for **10 quadrillion people** on the planet (10 000 000 000 000 000). **1 000 000 times the current population of the Earth**.
 
-Filling the entire space from the **Earth** to **Moon** (which is half the radius of the Sun), the population could reach **5 sextillion people** (5 000 000 000 000 000 000 000). **500 000 000 000 times the current population of the Earth**.
+Filling the entire space from the **Earth** to **Moon** (which is half the radius of the **Sun**), the population could reach **5 sextillion people** (5 000 000 000 000 000 000 000). **500 000 000 000 times the current population of the Earth**.
 
 Filling the entire space from the **Earth** to **Mars** and from the **Earth** to **Venus**, the population could reach **15 octillion people** (15 000 000 000 000 000 000 000 000 000). **1 500 000 000 000 000 000 times the current population of the Earth**.
 
