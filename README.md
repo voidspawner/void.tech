@@ -32,10 +32,13 @@
 ## Home
 
 ### Computer
+Disassemblable computer devices that can be used individually or as part of other devices.
 
-### Phone
+> Phone · Laptop · Tablet · Rotating Dock Station · Charger · Speaker · Blade Server · Keyboard · Mouse · Camera · Display · Console · Portable Console
 
 ### Robot
+
+> Disassemblable robot devices
 
 ### Door
 
