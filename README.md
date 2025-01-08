@@ -32,35 +32,64 @@
 ## Home
 
 ### Computer
+
 Disassemblable computer devices that can be used individually or as part of other devices.
 
 > Phone · Laptop · Tablet · Rotating Dock Station · Charger · Speaker · Blade Server · Keyboard · Mouse · Camera · Display · Console · Portable Console
 
 ### Robot
 
-> Disassemblable robot devices
+Disassembled robot parts that can be connected to each other to add or remove functionality.
+
+> Guarding · Aerial observation · Companion · Cleaning · Carrying cargo · Fun · Selfies from afar · Construction
 
 ### Door
 
+Disassembled parts of locking systems.
+
+> Door handle · Door lock · Door opening · Dispenser · Container
+
 ### Power
 
+Disassembled parts of power systems.
+
+> Socket · Lamp · Power supply · Extension cord · Charging station · LED light
+
 ### Medicine
+
+Disassembled parts of medical equipment.
+
+> Fitness tracker bracelet · Pump · Subcutaneous blood monitor · Ultrasound · MRI · Surgical table
 
 ## City
 
 ### Deliver
 
+Delivery of goods by robots and containers by land, water, air and airless.
+
 ### Transport
 
+Individual transport.
+
+> Cabin with chair and monowheel, multiple wheels, propellers · Airpack · Underwater and airless spacesuit
+  
 ### Cafe
+
+Compact self-contained cafes located in different parts of the city and buildings. Comfortable soft chairs. Fresh coffee and snacks. An ideal place to socialize and work. A replacement for office space.
 
 ### Shop
 
+Compact autonomous stores located in different parts of the city and buildings. One round room for receiving and issuing orders. Order assembly is carried out in autonomous warehouses. The order is formed on a smartphone, interactive panel or autonomously, according to a schedule. Home delivery is carried out by robots from store warehouses.
+ 
 ## Space
 
 ### Building
 
+Autonomous construction by land, water, air and airless robots. Full cycle of material delivery, building assembly and site cleanup.
+ 
 ### Energy
+
+Autonomous energy for both domestic and industrial purposes. Utilization of solar, wind, tidal, thermal, chemical, nuclear, cold nuclear fusion energy.
 
 ### Producing
 
