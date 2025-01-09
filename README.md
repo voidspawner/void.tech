@@ -71,7 +71,7 @@ Delivery of goods by robots and containers by land, water, air and airless.
 
 Individual transport.
 
-> Cabin with seat mounted on monowheel, wheels, tracks, legs, propellers, jets · Boat-submarine · Booster · Jetsuit · Divingsuit · Spacesuit
+> Cabin with seat mounted on monowheel, wheels, tracks, legs, propellers, jets · Boat-submarine · Rocket booster · Jetsuit · Divingsuit · Spacesuit
   
 ### Cafe
 
