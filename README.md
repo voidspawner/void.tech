@@ -89,7 +89,7 @@ Autonomous construction by land, water, air and airless robots. Full cycle of ma
  
 ### Energy
 
-Autonomous energy for both domestic and industrial purposes. Utilization of solar, wind, tidal, thermal, chemical, nuclear, nuclear fusion energy.
+Autonomous energy for both domestic and industrial purposes. Utilization of solar, wind, river, tidal, thermal, chemical, nuclear, nuclear fusion energy.
 
 ### Producing
 
