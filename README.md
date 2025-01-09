@@ -71,7 +71,7 @@ Delivery of goods by robots and containers by land, water, air and airless.
 
 Individual transport.
 
-> Cabin with chair and monowheel, multiple wheels, propellers · Airpack · Underwater and airless spacesuit
+> Cabin with seat mounted on monowheel, wheels, tracks, legs, propellers, jets · Boat-submarine · Jetsuit · Divingsuit · Spacesuit
   
 ### Cafe
 
