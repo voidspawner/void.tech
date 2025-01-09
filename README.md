@@ -65,7 +65,7 @@ Disassembled parts of medical equipment.
 
 ### Deliver
 
-Delivery of goods by robots and containers by land, water, air and airless.
+Delivery of goods by robots with containers over land, water, air and airless space.
 
 ### Transport
 
