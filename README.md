@@ -35,7 +35,7 @@
 
 Disassemblable computer devices that can be used individually or as part of other devices.
 
-> Phone · Laptop · Tablet · Rotating Dock Station · Charger · Speaker · Blade Server · Keyboard · Mouse · Camera · Display · Console · Portable Console
+> Phone · Laptop · Tablet · Rotating dock station · Charger · Speaker · Blade Server · Keyboard · Mouse · Camera · Display · Console · Portable console
 
 ### Robot
 
