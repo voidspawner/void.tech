@@ -2,7 +2,7 @@
 
 ## About
 
-**⌜ V O I D tech ⌟** are combinable devices controlled by **[V O I D ai](https://github.com/voidspawner/void.lang)** for creating **individual** stand-alone productions, as well as creating individual products with **unique designs** and in the required quantities.
+**⌜ V O I D tech ⌟** are combinable devices controlled by **[V O I D ai](https://github.com/voidspawner/void.lang#v-o-i-d-ai)** for creating **individual** stand-alone productions, as well as creating individual products with **unique designs** and in the required quantities.
 
 <img src="https://github.com/voidspawner/void.ideology/blob/main/asset/image/logo.jpg" width="100%">
 
