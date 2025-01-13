@@ -33,6 +33,8 @@
 
 ## Home
 
+<img src="https://github.com/voidspawner/voidspawner.github.io/blob/main/site/image/home.webp" width="100%">
+
 ### Computer
 
 Disassemblable computer devices that can be used individually or as part of other devices.
@@ -64,6 +66,8 @@ Disassembled parts of medical equipment.
 > Fitness tracker bracelet · Pump · Subcutaneous blood monitor · Ultrasound · MRI · Surgical table
 
 ## City
+
+<img src="https://github.com/voidspawner/voidspawner.github.io/blob/main/site/image/city.webp" width="100%">
 
 ### Deliver
 
