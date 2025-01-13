@@ -33,7 +33,7 @@
 
 ## Home
 
-<img src="https://github.com/voidspawner/voidspawner.github.io/blob/main/site/image/home.webp" width="100%">
+<img src="https://github.com/voidspawner/voidspawner.github.io/blob/main/site/image/home2.webp" width="100%">
 
 ### Computer
 
@@ -67,7 +67,7 @@ Disassembled parts of medical equipment.
 
 ## City
 
-<img src="https://github.com/voidspawner/voidspawner.github.io/blob/main/site/image/city.webp" width="100%">
+<img src="https://github.com/voidspawner/voidspawner.github.io/blob/main/site/image/city2.webp" width="100%">
 
 ### Deliver
 
