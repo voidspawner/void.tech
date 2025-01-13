@@ -89,6 +89,8 @@ Compact autonomous stores located in different parts of the city and buildings. 
  
 ## Space
 
+<img src="https://github.com/voidspawner/voidspawner.github.io/blob/main/site/image/space.webp" width="100%">
+
 ### Building
 
 Autonomous construction by land, water, air and airless robots. Full cycle of material delivery, building assembly and site cleanup.
