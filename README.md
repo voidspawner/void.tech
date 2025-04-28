@@ -33,7 +33,7 @@
 
 ## Home
 
-<img src="https://github.com/voidspawner/voidspawner.github.io/blob/main/site/image/home2.webp" width="100%">
+<img src="https://github.com/voidspawner/void.ideology/blob/main/site/image/home.webp" width="100%">
 
 ### Computer
 
@@ -67,7 +67,7 @@ Disassembled parts of medical equipment.
 
 ## City
 
-<img src="https://github.com/voidspawner/voidspawner.github.io/blob/main/site/image/city2.webp" width="100%">
+<img src="https://github.com/voidspawner/void.ideology/blob/main/site/image/city.webp" width="100%">
 
 ### Deliver
 
@@ -89,7 +89,7 @@ Compact autonomous stores located in different parts of the city and buildings. 
  
 ## Space
 
-<img src="https://github.com/voidspawner/voidspawner.github.io/blob/main/site/image/space.webp" width="100%">
+<img src="https://github.com/voidspawner/void.ideology/blob/main/site/image/space.webp" width="100%">
 
 ### Building
 
@@ -194,7 +194,7 @@ For **[artificial intelligence](https://en.wikipedia.org/wiki/Artificial_intelli
 
 Another area of **V O I D tech** is the autonomous cultivation of plants and living beings. It can be deployed at home, creating small **year-round farms**. Autonomous watering, lighting, humidification, temperature control, blowing. Also feeding and cleaning of animals.
 
-<img src="https://github.com/voidspawner/voidspawner.github.io/blob/main/site/image/farm.webp" width="100%">
+<img src="https://github.com/voidspawner/void.ideology/blob/main/site/image/farm.webp" width="100%">
 
 Up to giant **vertical spiral farms** that can go **1 000 km** below the surface, and can be used on different planets, with different gravity, pressure and radiation. For example, the diameter of **[Europa](https://en.wikipedia.org/wiki/Europa_(moon))**, a satellite of **[Jupiter](https://en.wikipedia.org/wiki/Jupiter)**, is only **3 121 km**. Providing food for **10 quadrillion people** on the planet (10 000 000 000 000 000). **1 000 000 times the current population of the Earth**.
 
@@ -202,7 +202,7 @@ Filling the entire space from the **Earth** to **Moon** (which is half the radiu
 
 Filling the entire space from the **Earth** to **Mars** and from the **Earth** to **Venus**, the population could reach **15 octillion people** (15 000 000 000 000 000 000 000 000 000). **1 500 000 000 000 000 000 times the current population of the Earth**.
 
-<img src="https://github.com/voidspawner/voidspawner.github.io/blob/main/site/image/deepfarm.webp" width="100%">
+<img src="https://github.com/voidspawner/void.ideology/blob/main/site/image/deepfarm.webp" width="100%">
 
 ### Spawner
 
@@ -214,7 +214,7 @@ Autonomous **shape-shifting** devices controlled by **V O I D ai**, traveling fr
 > 
 > **Dome** · Standing on the planet's surface
 
-<img src="https://github.com/voidspawner/voidspawner.github.io/blob/main/site/image/spawner-shape.webp" width="100%">
+<img src="https://github.com/voidspawner/void.ideology/blob/main/site/image/spawner-shape.webp" width="100%">
 
 Spawners signal each other that a planet has been populated to prevent repopulation. And also exchange data about the location of other spawners, a **map of the Universe** and accumulated **knowledge** from other star systems.
 
@@ -246,4 +246,4 @@ You can use it in both **private** and **open source**, embed it in **free** or 
 > [!IMPORTANT]
 > By adding your code to the repository, you are publishing it under the **V O I D licence**.
 
-Find out current **tasks** and **payment** at [**V O I D task**](https://github.com/voidspawner/void.task)
+Find out current **tasks** and **payment** at [**V O I D task**](https://voidsp.ru/void.task)
