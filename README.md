@@ -221,7 +221,7 @@ Spawners signal each other that a planet has been populated to prevent repopulat
 Autonomous **underground factories** persist on the planet. Goods are crafted **individually** to meet people's needs and delivered autonomously.
 
 ## V O I D game
-**[⌜ V O I D game ⌟](https://voidsp.ru/game)** is a game that creates an **infinite** number of games, v-apps and content.
+**[⌜ V O I D game ⌟](https://voidsp.ru/game)** is a game that creates an **infinite** number of games, vapps and content.
 
 ## V O I D social
 **[⌜ V O I D social ⌟](https://voidsp.ru/social)** is a social network where you can **quickly** and **easily** communicate without words with people all over the world.
@@ -246,4 +246,4 @@ You can use it in both **private** and **open source**, embed it in **free** or 
 > [!IMPORTANT]
 > By adding your code to the repository, you are publishing it under the **V O I D licence**.
 
-Find out current **tasks** and **payment** at [**V O I D task**](https://voidsp.ru/void.task)
+Find out current **tasks** and **payment** at **[V O I D task](https://voidsp.ru/void.task)**
